@@ -1,0 +1,11 @@
+999efccd5772bf1112f685ac78b4c01a *DESCRIPTION
+c7dede759e4eb915475d79539c7840a2 *NAMESPACE
+cd6e8da30c16439f0de80db5fea3f9ac *R/hetsurrSurv.functions.R
+0713d5fa757b795f81f976c40ff3f2a9 *data/example.data.RData
+3c39db1f65b8813198a3cbeb9d32643c *man/R.main.estimate.Rd
+cb3794a32f4f430a4d4cbdd3fabc96e1 *man/R.surv.s.w.Rd
+936965d1dcfda503ce41859aa9c99d67 *man/delta.s.surv.estimate.new.Rd
+9e384710163952b6701d65ff9083b43d *man/example.data.Rd
+fc1a95284872219e34ecbf9ae76d7f49 *man/pred.smooth.surv.w.Rd
+833c43e53414f5b0b91c48ee614e736c *man/pred.smooth.surv.w.s.Rd
+b195b0c2df843734c5bf30c0586a2d8f *man/test.multiplet.Rd
